@@ -1,0 +1,123 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.logo-dim {
+  width: 64px;
+  height: 38px;
+}
+.font-style {
+  line-height: 1px;
+  font-size: 1em;
+}
+.font-style2 {
+  line-height: 0.5px;
+  font-size: 10px;
+}
+.bg-img {
+  background-image: url(../images/3d-rendering-planet-earth.jpg);
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+}
+.bg-color-main {
+  background-color: #1e202b;
+}
+.bg-color-main2 {
+  background-color: #262936;
+}
+.vh-25 {
+  height: 30vh;
+  background-color: #262936;
+  width: 100%;
+}
+.height-55 {
+  height: 50px;
+}
+.w-10 {
+  width: 15%;
+  height: 45px;
+  right: 2.5px;
+  top: 2.5px;
+  z-index: 9999999 !important;
+}
+.w-35 {
+  width: 25%;
+  transform: translateX(15%);
+}
+.pos-aps {
+  top: 10%;
+  left: 50%;
+  transform: translatex(-50%);
+}
+.color1 {
+  background-color: #323544;
+}
+.color2 {
+  background-color: #262936;
+}
+.icon {
+  width: 35px;
+  height: 35px;
+}
+.icon:hover {
+  background-color: rgb(51, 144, 202) !important;
+  color: white !important;
+}
+.form-control::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.502) !important;
+}
+.w-20 {
+  width: 20%;
+  height: 45px;
+  right: 2.5px;
+  top: 2.5px;
+  z-index: 9999999 !important;
+}
+.vh-80 {
+  height: 80vh;
+}
+.cardhead {
+  background-color: #323544;
+}
+
+.font {
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+.cardbody {
+  background-color: #262936;
+}
+
+.cardhead2 {
+  background-color: #1f212b;
+}
+
+.cardbody2 {
+  background-color: #282b3b;
+}
+
+.cardhead3 {
+  background-color: #323544;
+}
+
+.cardbody3 {
+  background-color: #262936;
+}
+.hight-inherit {
+  height: inherit;
+}
+.overflow-x-clip {
+  overflow-x: clip;
+}
+.w-90 {
+  width: 90%;
+}
+.m-footer {
+  margin-bottom: 60px !important;
+}
+.icon:hover {
+  cursor: pointer;
+  transition: 0.7s;
+}
